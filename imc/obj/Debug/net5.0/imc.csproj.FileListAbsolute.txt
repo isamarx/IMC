@@ -1,0 +1,16 @@
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\bin\Debug\net5.0\imc.exe
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\bin\Debug\net5.0\imc.deps.json
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\bin\Debug\net5.0\imc.runtimeconfig.json
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\bin\Debug\net5.0\imc.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\bin\Debug\net5.0\imc.dll
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\bin\Debug\net5.0\imc.pdb
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.dll
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\refint\imc.dll
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.pdb
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\imc.genruntimeconfig.cache
+C:\Users\Usuário\Documents\Projeto_IMC\imc\imc\obj\Debug\net5.0\ref\imc.dll
